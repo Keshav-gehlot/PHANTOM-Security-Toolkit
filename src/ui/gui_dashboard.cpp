@@ -7,7 +7,6 @@
 #include <vector>
 #include <sstream>
 #include <thread>
-#include <mutex>
 #include <iostream>
 
 #pragma comment(lib, "comctl32.lib")
