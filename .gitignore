@@ -1,0 +1,36 @@
+# Build directories
+build/
+bin/
+out/
+CMakeSettings.json
+
+# Dependencies and packages
+vcpkg/
+vcpkg_installed/
+.cache/
+
+# Local logs and test files
+keylog.txt
+keylog_*.txt
+*.log
+
+# Compiler/Linker artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# IDE specific files
+.vs/
+.idea/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf

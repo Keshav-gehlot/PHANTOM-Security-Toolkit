@@ -1,0 +1,10 @@
+{
+  "name": "phantom-toolkit",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "ncurses",
+    "openssl",
+    "libssh2",
+    "zlib"
+  ]
+}
